@@ -93,6 +93,55 @@ Makes web apps faster by reducing direct updates to the Real DOM.
 ### Axios  
 **Axios** is a library for making HTTP requests, commonly used for API communication.  
 
+
+
+# JAVA
+
+# SCRUM
+
+## WHAT IS IT? 
+**Scrum** is a framework for managing projects, focusing on **teamwork**, **accountability**, **transparency**, and iterative progress towards a clear goal. It enables teams to address **complex adaptive problems** while delivering high-value products creatively and productively.  
+
+At its core, Scrum is a simple yet powerful framework for effective **team collaboration** in developing complex products.
+
+## PILARS
+
+- **TRANSPARECY**: this means showing the facts exactly as they are.
+- **INSPECTION**: check your work as you do it.
+- **ADAPTABILITY**: continous improvement based on previous inspection.
+
+## KEY CONCEPTS (so far)
+
+- ### IMPEDIMENTS
+  * It is those habits/behaviours that stop me from being productive. **THEY ARE OPPORTUNITIES NOT OBSTACLES**
+- ### METRICS
+  * Tool used to measure my progress, helps to identify wether I'm achieving my goals or not, and also areas where's room for improvement
+- ### NEGATIVE LOGIC
+  * Getting rid of toxic/non-benefitial habits rather than focusing on implementing `new` ones. "First, don't subtract, and then start adding."
+- ### COMMUNICATION
+  * Effective
+  * Concise
+  * Deliver value
+  * Charisma = high warmth + high competence.
+  * On the same page = where a group sees and generally agree or understand the same situation.
+- ### COLLABORATION
+  * Open and effective communication
+  * Working towards the same goal
+  * Sharing responsabilities
+- ### PLANNING
+  * Time-blocking
+  * High-mid-low energy
+  * Prioritize
+  * Getting things DONE (execute!!!!!!)
+- ### SMART WORK > HARD WORK
+- ### MINDSET
+  
+
+
+
+
+
+
   
 
 
