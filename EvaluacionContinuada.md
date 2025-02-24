@@ -37,9 +37,9 @@ const value = useContext(SomeContext)
 ```jsx
 const [state, dispatch] = useReducer(reducer, initialArg, init?)
 ```
-- Dispatcher: function that sends an action to the reducer.
-- Reducer: function that determines how the state should change in response to a given action and return a new state.
-- Action : literal object with a field type thst describes the action, and other fields that contain the payloads.
+- **Dispatcher**: function that sends an action to the reducer.
+- **Reducer**: function that determines how the state should change in response to a given action and return a new state.
+- **Action** : literal object with a field type thst describes the action, and other fields that contain the payloads.
 
   
 - useEffect:
