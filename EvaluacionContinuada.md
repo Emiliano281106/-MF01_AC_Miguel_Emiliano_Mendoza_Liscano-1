@@ -1,6 +1,6 @@
 # Evaluación Continuada/Emiliano Mendoza
 
-##REACT
+#REACT
 
 ## Hooks 
 - **What does it do?**
@@ -12,27 +12,28 @@
     * useEffect: `SYNCS` with actions(dependencies).
 
 - **Syntax**
-  ###useState:
+  
+ - useState:
  ```j̀sx
 const [state, setState] = useState(initialState);
 ```
 
-###useRef:
+- useRef:
 ```jsx
 const ref = useRef(initialValue);
 ```
 
-###useMemo:
+- useMemo:
 ```jsx
 const cachedValue = useMemo(calculateValue, dependencies)
 ```
 
-###useContext:
+- useContext:
 ```jsx
 const value = useContext(SomeContext)
 ```
 
-###useReducer:
+- useReducer:
 ```jsx
 const [state, dispatch] = useReducer(reducer, initialArg, init?)
 ```
@@ -41,7 +42,7 @@ const [state, dispatch] = useReducer(reducer, initialArg, init?)
 - Action : literal object with a field type thst describes the action, and other fields that contain the payloads.
 
   
-###useEffect:
+- useEffect:
 ```jsx
 useEffect(() => {
   // code to execute
@@ -53,7 +54,7 @@ useEffect(() => {
 - If [dependencies], runs after any of them changes.
 - If don't specify, runs after every render.
 
-##KEY CONCEPTS/TOOLS
+# KEY CONCEPTS/TOOLS
 
 ## Render virtual DOM ()
   
