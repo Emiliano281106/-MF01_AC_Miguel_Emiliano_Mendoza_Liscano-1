@@ -14,7 +14,7 @@
 - **Syntax**
   
  - useState:
- ```j̀sx
+ ```jsx
 const [state, setState] = useState(initialState);
 ```
 
