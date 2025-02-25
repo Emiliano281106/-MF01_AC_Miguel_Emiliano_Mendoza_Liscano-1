@@ -156,6 +156,17 @@ At its core, Scrum is a simple yet powerful framework for effective **team colla
 
 ## MY ROADMAP(5 WEEKS)
 - [**ROADMAP**](https://github.com/Emiliano281106/ROADMAP)
+
+
+# TOOLS I LEARNED:
+
+* **git**
+* **github**
+* **Linux console**
+* **markdown**
+* **intellijidea**
+* **visualStudio**
+  
   
 
 
