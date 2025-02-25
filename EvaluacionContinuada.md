@@ -97,6 +97,22 @@ Makes web apps faster by reducing direct updates to the Real DOM.
 
 # JAVA
 
+## 
+
+
+
+## MOOC
+* Java programming 1 completed
+
+## MY PROJECTS:
+- **WeatherApp API info** [WeatherApp](https://github.com/Emiliano281106/weather-app-API).
+- **Practice ManyToMany(JoinTable)** [Library](https://github.com/Emiliano281106/Library2.0).
+-  **Airport-Spring** [Airport](https://github.com/Emiliano281106/Airport-Spring).
+
+# DevOps
+
+I learned basic git and linux commands, I made hand-written notes about them.
+
 # SCRUM
 
 ## WHAT IS IT? 
@@ -133,8 +149,13 @@ At its core, Scrum is a simple yet powerful framework for effective **team colla
   * High-mid-low energy
   * Prioritize
   * Getting things DONE (execute!!!!!!)
+- ### USER STORIES
+  * Simple description of a software feature from the user's perspective. Highlights what the user wants to achieve.
 - ### SMART WORK > HARD WORK
 - ### MINDSET
+
+## MY ROADMAP(5 WEEKS)
+- [**ROADMAP**](https://github.com/Emiliano281106/ROADMAP)
   
 
 
